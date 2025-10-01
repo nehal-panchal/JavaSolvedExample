@@ -1,0 +1,2 @@
+# JavaSolvedExample
+Practise questions 
