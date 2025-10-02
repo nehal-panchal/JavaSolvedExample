@@ -12,6 +12,6 @@ public class q2{
         int c = sc.nextInt();
         int sum = a + b + c;
 
-        System.out.println("Average of three numbers is = "+ sum/3);
+        System.out.println("Average of three numbers is = "+ (sum/3));
     }
 }
