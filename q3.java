@@ -1,0 +1,1 @@
+// # Que 3 - In a program, input the side of a square. You have to output the area of the square.
