@@ -13,4 +13,10 @@ So, to see the answer of any question, open the file with the same number.
 
 # Que 4 - Enter cost of 3 items from the user (using float data type) - a pencil, a pen and an eraser. You have to output the total cost of the items back to the user as their bill. (Add on : You can also try adding 18% gst tax to the items in the bill as an advanced problem)
 
-# Que 5 -
+# Que 5 -   Given an integer, , perform the following conditional actions: 
+            1 - If  is odd, print Weird , 
+            2 - If  is even and in the inclusive range of  to , print Not Weird , 
+            3 - If  is even and in the inclusive range of  to , print Weird
+            4 - If  is even and greater than , print Not Weird
+
+
