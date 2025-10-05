@@ -19,4 +19,16 @@ So, to see the answer of any question, open the file with the same number.
             3 - If  is even and in the inclusive range of  to , print Weird
             4 - If  is even and greater than , print Not Weird
 
+# Que 6 -   Write a Java program to get a number from the user and print whether it is positive or negative
 
+# Que 7 -   Write a Java program to input week number(1-7) and print day of week name using switch case.
+
+# Que 8 -   Write a Java program that takes a year from the user and print whether that year is a leap year or not.
+
+# Que 9 -   Write a program that reads a set of integers, and then prints the sum of the even and odd integers
+
+# Que 10 -  Write a program to find the factorial of any number entered by the use
+
+# Que 11 -  Write a program to print the multiplication table of a number N, entered by the user.
+
+# Que 12 - 

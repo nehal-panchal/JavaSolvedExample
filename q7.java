@@ -1,5 +1,6 @@
-import java.util.*;
+// Write a Java program to input week number(1-7) and print day of week name using switch case.
 
+import java.util.*;
 public class q7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
