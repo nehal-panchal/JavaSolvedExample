@@ -32,3 +32,6 @@ So, to see the answer of any question, open the file with the same number.
 # Que 11 -  Write a program to print the multiplication table of a number N, entered by the user.
 
 # Que 12 -  Write a program to print a basic star pattern using loops(Take user input.)
+
+# Que 13 - Take a character and check if it’s a vowel or consonant.
+
