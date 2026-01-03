@@ -36,3 +36,5 @@ So, to see the answer of any question, open the file with the same number.
 # Que 13 - Take a character and check if it’s a vowel or consonant.
 
 # Que 14 - Take a temperature value and print “Cold”, “Warm” , or “Hot” using range conditions.
+
+# Que 15 - Take three sides and check if they form a valid triangle.
