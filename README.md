@@ -40,3 +40,5 @@ So, to see the answer of any question, open the file with the same number.
 # Que 15 - Take three sides and check if they form a valid triangle.
 
 # Que 16 - If the sides form a valid triangle, determine whether it is equilateral, isosceles, or scalene.
+
+# Que 17 - Check voting eligibility for a given age (18+).
