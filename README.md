@@ -44,3 +44,6 @@ So, to see the answer of any question, open the file with the same number.
  Que 17 - Check voting eligibility for a given age (18+).
 
 Que 18 - Take a day number (1–7) and print the corresponding day name.
+
+Que 19 - Take a day number (1–7) and print the corresponding day name. Take a 3-digit number and check if all digits are       distinct.
+
