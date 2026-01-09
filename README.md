@@ -46,3 +46,6 @@ So, to see the answer of any question, open the file with the same number.
 Que 18 - Take a day number (1–7) and print the corresponding day name.
 
 Que 19 - Take a 3-digit number and check if all digits are distinct.
+
+Que 20 - Take a 3-digit number and determine if the middle digit is the largest, smallest, or
+neither.
